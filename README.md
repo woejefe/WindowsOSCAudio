@@ -5,4 +5,5 @@ Default listening port of 9001, when you start program it pulls up GUI to define
 Example OSC- Address: /master/volume/
              Argument: 50
 
-             <img width="378" height="255" alt="image" src="https://github.com/user-attachments/assets/88565e2d-c8c3-4f46-b3e1-a2f85edd58e8" />
+             
+<img width="378" height="255" alt="Screenshot 2025-10-29 161620" src="https://github.com/user-attachments/assets/a026178e-cd48-4f31-8730-195729179651" />
