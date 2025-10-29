@@ -3,6 +3,7 @@ This program is just a simple OSC listener to control Windows audio.
 Default listening port of 9001, when you start program it pulls up GUI to define listening port. Minimizes to Tray, startup option as well.
 
 Example OSC- Address: /master/volume/
+
              Argument: 50
 
              
