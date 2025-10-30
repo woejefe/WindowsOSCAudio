@@ -6,7 +6,7 @@ Seems to only use about 29 MB of RAM consistently and I have noticed next to not
 
 Default listening port of 9001. 
 
-When you start the program it pulls up GUI to define listening port if youd like to change it. Windows Firewall will prompt you once you start service.
+When you start the program it pulls up a GUI to define listening port, toggle on startup, show logging console, and gives examples. Windows Firewall will prompt you once you start service.
 
 Toggle to start on boot, use tray icon to access GUI. Its a Standalone program so if you want to persistently use you will need to place program in something like "Program Files"
 
@@ -19,6 +19,7 @@ Example OSC:
 
 /mic/mute 1
 
+(only supports default input and output devices currently as well as windows processes)
 
 <img width="378" height="255" alt="Screenshot 2025-10-29 161620" src="https://github.com/user-attachments/assets/a026178e-cd48-4f31-8730-195729179651" />
 
