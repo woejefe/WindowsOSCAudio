@@ -18,9 +18,9 @@ Example of a fader in OSCpilot:
 <img width="396" height="715" alt="Screenshot 2025-10-29 163033" src="https://github.com/user-attachments/assets/04d9ad28-5c74-463b-ab72-892287f0ee1b" />
 
 
-use: 
+If you want to use python install these dependencies: 
     
     pip install python-osc pycaw comtypes psutil pystray pillow 
 
 
-to install dependencies
+
