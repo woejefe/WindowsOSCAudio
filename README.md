@@ -20,7 +20,7 @@ Address: /master/volume
 Argument: 50
 
 
-Address: /app/volume/firefox/
+Address: /app/volume/firefox
 
 Argument: 25
 
