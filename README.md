@@ -20,7 +20,7 @@ Example of a fader in OSCpilot:
 
 use: 
     
-    py -m pip install python-osc pycaw comtypes psutil pystray pillow 
+    pip install python-osc pycaw comtypes psutil pystray pillow 
 
 
 to install dependencies
