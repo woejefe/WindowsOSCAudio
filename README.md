@@ -13,11 +13,14 @@ Toggle to start on boot, use tray icon to access GUI. Its a Standalone program s
 
 Example OSC:
 
-/master/volume/ 50
+Address: /master/volume 
+Argument: 50
 
-/app/volume/firefox/ 72
+Address: /app/volume/firefox/
+Argument: 25
 
-/mic/mute 1
+Address: /mic/mute
+Argument: 1
 
 (only supports default input and output devices currently as well as windows processes)
 
@@ -31,7 +34,9 @@ Example of a fader in OSCpilot:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+Can use a DAW, Lighting console, Audio Console, Bitfocus Companion, and many other control surfaces to control Windows sounds now.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 If you want to use python instead of EXE install these dependencies: 
     
