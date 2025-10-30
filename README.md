@@ -16,12 +16,17 @@ Example OSC:
 ------------
 
 Address: /master/volume 
+
 Argument: 50
 
+
 Address: /app/volume/firefox/
+
 Argument: 25
 
+
 Address: /mic/mute
+
 Argument: 1
 
 (only supports default input and output devices currently as well as windows processes)
