@@ -4,7 +4,11 @@ Currently this is only a Listener and no Polling/Feedback is supported.Wanted to
 
 Seems to only use about 29 MB of RAM consistently and I have noticed next to nothing on CPU usage. 
 
-Default listening port of 9001. When you start the program it pulls up GUI to define listening port if youd like to change it, Also pops up Windows Firewall prompt once you start service. Toggle to start on boot, use tray icon to access GUI. Its a Standalone program so if you want to persistently use you will need to place in location on C: drive. I.E. Program Files
+Default listening port of 9001. 
+
+When you start the program it pulls up GUI to define listening port if youd like to change it. Windows Firewall will prompt you once you start service.
+
+Toggle to start on boot, use tray icon to access GUI. Its a Standalone program so if you want to persistently use you will need to place program in something like "Program Files"
 
 
 Example OSC:
